@@ -1,1 +1,1 @@
-# Missionaries-and-Cannibals
+# Missionaries and Cannibals
